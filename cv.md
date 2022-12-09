@@ -7,10 +7,10 @@
 [![Vk](https://img.shields.io/badge/-Vkontakte-38393C?style=flat&logo=vk&logoColor=#0077FF)](https://vk.com/id151234745)
 [![Gmail](https://img.shields.io/badge/-Gmail-38393C?style=flat&logo=Gmail&logoColor=#EA4335)](https://mail.google.com/mail/u/0/#inbox)
 ***
-### **A b o u t  m e**
+### **A b o u t   m e**
 I am a beginner frontend-developer. I have strong analytical and creative abilities. I work well in a team, I am disciplined and attentive to details.
 ***
-### **L a n g u a g e s  and  T o o l s:**
+### **L a n g u a g e s   a n d   T o o l s:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-38393C?style=flat&logo=JavaScript&logoColor=#E9D54D)
 ![Node.js](https://img.shields.io/badge/-Node.js-38393C?style=flat&logo=Node.js&logoColor=#339933)
 ![SCSS/SASS](https://img.shields.io/badge/-SCSS/SASS-38393C?style=flat&logo=SASS&logoColor=#CC6699)
@@ -21,7 +21,7 @@ I am a beginner frontend-developer. I have strong analytical and creative abilit
 ![Git](https://img.shields.io/badge/-Git-38393C?style=flat&logo=Git&logoColor=#F05032)
 ![Figma](https://img.shields.io/badge/-Figma-38393C?style=flat&logo=Figma&logoColor=#F24E1E)
 ***
-### **E x a m p l e s  o f  m y  c o d e**
+### **E x a m p l e s   o f   m y   c o d e**
 You can check out my code on my github page
 ***
 ### **E x p e r i a n c e**
