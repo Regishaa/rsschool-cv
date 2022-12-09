@@ -26,6 +26,7 @@ You can check out my code on my github page
 ***
 ### **E x p e r i a n c e**
 **FRONTEND-DEVELOPER (TRAINEE)**
+
 Sfera
 
 November 2022 - Present
