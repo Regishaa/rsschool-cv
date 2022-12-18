@@ -1,1 +1,40 @@
-/* тут будут стили */
+.container{
+    float: right;
+    margin: 0 auto;
+}
+
+.container a {
+    text-decoration: none;
+}
+.main {
+    margin-bottom: 15px;
+}
+.background-image {
+    width: 100%;
+    background-image: url("https://github.com/Regishaa/rsschool-cv/blob/rsschool-cv-html/assets/foto/foto1.jpg");
+    
+}
+.about_me {
+    width: 50%;
+}
+.info {
+    width: 33.33%;
+}
+.education {
+    width: 33.33%;
+}
+.experience {
+    width: 50%;
+}
+.skills {
+    width: 50%;
+}
+.courses {
+    width: 33.33%;
+}
+.my_works {
+    width: 75%;
+}
+.my_code {
+    width: 25%;
+}
