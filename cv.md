@@ -11,6 +11,7 @@
 ----------------------
 ## About
 I am a beginner frontend-developer. I have strong analytical and creative abilities. I work well in a team, I am disciplined and attentive to details.
+
 Level of English proficiency: Intermediate (B1).
 ----------------------
 ## Skills
@@ -25,7 +26,9 @@ Level of English proficiency: Intermediate (B1).
 ----------------------
 ## Experience
 **Frontend-developer (Trainee)**
+
 *Sfera*
+
 November 2022- Febrary 2023
 - Website layout creation
 - Website design creation
@@ -39,9 +42,13 @@ November 2022- Febrary 2023
 -----------------------
 ## Education 
 **Medical college**
+
 *Nurse, diploma with honors*
+
 *2019-2023*
+
 *Qualification "Medical massage"*
+
 *2022-2023*
 
 **21 School**
