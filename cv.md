@@ -26,7 +26,9 @@ Level of English proficiency: Intermediate (B1).
 ----------------------
 ## Experience
 **Frontend-developer (Trainee)**
+
 *Sfera*
+
 November 2022- Febrary 2023
 - Website layout creation
 - Website design creation
@@ -42,8 +44,11 @@ November 2022- Febrary 2023
 **Medical college**
 
 *Nurse, diploma with honors*
+
 *2019-2023*
+
 *Qualification "Medical massage"*
+
 *2022-2023*
 
 **21 School**
